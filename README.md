@@ -17,7 +17,7 @@ Nós criamos o chat querendo que fosse algo dinâmico e que fosse agradável, ut
 
 Participações
 > [Beatriz Marques](https://github.com/biaamarquess)  
-> [Gabriel Theodoro](https://github.com/Mvictoria218)  
+> [Gabriel Theodoro](https://github.com/theodoro2115)  
 > [Maria Eduarda Gomes](https://github.com/MariaGomesR)  
 
 Links
