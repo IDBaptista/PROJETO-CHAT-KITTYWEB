@@ -9,11 +9,9 @@ Nós criamos o chat querendo que fosse algo dinâmico e que fosse agradável, ut
 
 ## DESENVOLVIMENTO:
 ![print inicio](/static/prints/index.png)
-![print sobre](/static/print/sobre.png)
-![print soft](/static/print/soft.png)
-![print back](/static/print/back.png)
-![print projetos](/static/print/projetos.png)
-![print contato](/static/print/contato.png)
+![print entrar](/static/prints/entrar.png)
+![print cadastro](/static/prints/cadastro.png)
+![print chat](/static/prints/chat.png)
 
 # PARTICIPAÇÕES E LINKS
 
