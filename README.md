@@ -7,6 +7,14 @@ Meu grupo foi composto por 4 pessoas e criamos a KittyWeb, um chat temático da 
 
 Nós criamos o chat querendo que fosse algo dinâmico e que fosse agradável, utilizando os recursos visuais, utilizamos da identidade visual, cores que encontramos e achamos que marcariam o chat de uma forma que se encaixasse com nosso protótipo, layouts e desenvolvimento.
 
+## DESENVOLVIMENTO:
+![print inicio]()
+![print sobre](/static/print/sobre.png)
+![print soft](/static/print/soft.png)
+![print back](/static/print/back.png)
+![print projetos](/static/print/projetos.png)
+![print contato](/static/print/contato.png)
+
 # PARTICIPAÇÕES E LINKS
 
 Participações
