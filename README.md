@@ -16,7 +16,7 @@ Nós criamos o chat querendo que fosse algo dinâmico e que fosse agradável, ut
 # PARTICIPAÇÕES E LINKS
 
 Participações
-> [Beatriz Marques](https://github.com/Lohanyy17)  
+> [Beatriz Marques](https://github.com/biaamarquess)  
 > [Gabriel Theodoro](https://github.com/Mvictoria218)  
 > [Maria Eduarda Gomes](https://github.com/MariaGomesR)  
 
