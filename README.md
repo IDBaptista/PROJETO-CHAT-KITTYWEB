@@ -23,5 +23,5 @@ Participações
 Links
 > [Protótipo](https://www.canva.com/design/DAGfkRwHkgI/S7eH6pYQHLfHt03h0Nio8Q/view?utm_content=DAGfkRwHkgI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h89dbb2d4bb)
 
-> [Link Renderizado](https://projeto-chat-kittyweb.onrender.com/)
+> [Link Renderizado](https://projeto-chat-kittyweb.onrender.com)
 
