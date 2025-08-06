@@ -1,5 +1,5 @@
 # PROJETO-CHAT-KITTYWEB
-O Projeto INOVAR do curso Desenvolvimento de Sistemas (3° Sementre) foi uma prática nas linguagens HTML, CSS, SQLite, Python Flask e uso de POO (Programação Orientada a Objetos).
+O Projeto Chat KittyWeb do curso Desenvolvimento de Sistemas (3° Sementre) foi uma prática nas linguagens HTML, CSS, SQLite, Python Flask e uso de POO (Programação Orientada a Objetos).
 
 # FINALIDADE
 Desenvolver a partir dos conhecimentos e pesquisas sobre HTML, CSS, SQLite, Python Flask e POO um chat de mensagens onde diferentes pessoas poderiam entrar e conversar de forma simultânea.
